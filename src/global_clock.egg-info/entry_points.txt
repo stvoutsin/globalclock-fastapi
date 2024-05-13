@@ -1,0 +1,2 @@
+[console_scripts]
+global_clock = globalclock.cli:main
